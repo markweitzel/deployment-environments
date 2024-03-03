@@ -1,4 +1,4 @@
-name: App-Base-Nodejs-Mongo-ACA
+name: App-Base-WebApp-ACA
 version: 1.0.0
 summary: App-Base-Nodejs Mongo ACA
 description: Deploys a base infra for ACA app dev with Nodejs and Mongo

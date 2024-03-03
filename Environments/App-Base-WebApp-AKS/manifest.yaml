@@ -1,4 +1,4 @@
-name: App-Base-Nodejs-Mongo-AKS
+name: App-Base-WebApp-AKS
 version: 1.0.0
 summary: App Base Nodejs Mongo AKS
 description: Deploys a base infra for AKS app dev with Nodejs and Mongo
